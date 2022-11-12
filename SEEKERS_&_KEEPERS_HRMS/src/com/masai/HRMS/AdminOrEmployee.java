@@ -15,7 +15,7 @@ public class AdminOrEmployee {
 	public static void choice() {
 		
 		Scanner s = new Scanner(System.in);
-		
+
 		try {
 			System.out.println(" Press \n 1.) Login Admin \n 2.) Login Employee \n 3.) Exit \n==================");
 			int value = s.nextInt();
