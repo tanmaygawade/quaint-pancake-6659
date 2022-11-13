@@ -8,8 +8,6 @@
 
 > This is a SOLO project executed in 5 days.
 
-# For detailed explanation [Video](https://drive.google.com/file/d/12DZX1lk-QpHTSXQ8MTV22jYDaSMZiTKB/view?usp=sharing)
-
 # Tech-Stack Used
 1.) Core concepts of JAVA <br>
 2.) MySQL <br>
