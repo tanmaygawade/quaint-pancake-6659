@@ -1,8 +1,4 @@
-# grubby-mitten-8672
-
-<div id="header" align="center">
-  <img src="https://tse3.mm.bing.net/th?id=OIP.Vz7UeLeBOXvvpsJZgiP8SgHaDY&pid=Api&P=0" width="80%" height = "200px"/>
-</div>
+# quaint-pancake-6659
 
 # **Human Resource Management System
 
@@ -39,7 +35,7 @@
 
 <h1 align = "center"> ER Diagram </h1>
 <div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/ER%20diagram.png" width="90%" height = "350px"/>
+  <img src="https://github.com/tanmaygawade/quaint-pancake-6659/blob/main/images/ER%20diagram.png" width="90%" height = "350px"/>
 </div>
 
 
@@ -47,33 +43,7 @@
 <h3>Employee and Department table has one to many relationship. </h3>
 
 <div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/tables.png" width="90%" height = "550px"/>
-</div>
-
-<h1 align = "center"> Some functionalities images </h1>
-<h2 align = "center"> Admin Login </h2>
-<div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/Admin%20Login.png" width="80%" height = "350px"/>
-</div>
-
-<h2 align = "center"> Employee Login </h2>
-<div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/Employee%20Login.png" width="90%" height = "350px"/>
-</div>
-
-<h2 align = "center"> Add new Employee </h2>
-<div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/Add%20Employee.png" width="90%" height = "350px"/>
-</div>
-
-<h2 align = "center"> All Employee's details </h2>
-<div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/All%20Employees.png" width="60%" height = "350px"/>
-</div>
-
-<h2 align = "center"> Leave Requests </h2>
-<div id="header" align="center">
-  <img src="https://github.com/Updesh012/grubby-mitten-8672/blob/main/Human%20Resource%20Management%20System%20Project/src/images/Leave%20Request.png" width="90%" height = "350px"/>
+  <img src="https://github.com/tanmaygawade/quaint-pancake-6659/blob/main/images/Admin%20Table.png" width="90%" height = "550px"/>
 </div>
 
 
